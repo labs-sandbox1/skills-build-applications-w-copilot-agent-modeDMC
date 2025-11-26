@@ -1,0 +1,2 @@
+import octofitLogo from './octofitLogo';
+export default octofitLogo;
